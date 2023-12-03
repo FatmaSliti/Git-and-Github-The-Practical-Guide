@@ -1,1 +1,3 @@
 Our first step in Git!
+
+This was also added in detached head mode!
