@@ -1,0 +1,5 @@
+*.log
+!test.log 
+# this means ignore all .log files except the test.log file
+
+web-app/*
