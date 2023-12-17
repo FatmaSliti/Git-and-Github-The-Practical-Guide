@@ -1,0 +1,6 @@
+git tag 1.0 is an example of adding a leightweight tag
+
+git tag -a 2.0 -m 'This is the latest version' is an example of adding an annotated tag
+
+to move tags:
+git tag -d 2.0
